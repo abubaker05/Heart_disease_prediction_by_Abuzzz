@@ -17,7 +17,7 @@ A machine learning-based web application that predicts the likelihood of heart d
 ## 🧠 Machine Learning Model
 
 - **Algorithm Used**: Random Forest Classifier
-- **Optimization**: RandomizedSearchCV
+- **Optimization**: GridSearchCV
 - **Evaluation Metrics**: Accuracy, Precision, Recall, F1-score
 - **Model Accuracy**: ~[Insert final accuracy]%
 
@@ -44,5 +44,5 @@ A machine learning-based web application that predicts the likelihood of heart d
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/heart-disease-prediction.git
-cd heart-disease-prediction
+git clone [https://github.com/abubaker05/Heart_disease_prediction_by_Abuzzz.git]
+cd Heart_disease_prediction_by_Abuzzz
